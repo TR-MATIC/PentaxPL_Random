@@ -1,6 +1,17 @@
 from random import randint
 
-the_list = ["1. radek_m", "2. szpajchel", "3. Rivelv", "4. klechu", "5. Ryszard", "6. Koralik", "7. skaarj"]
+the_list = [
+    "1. radek_m",
+    "2. szpajchel",
+    "3. Rivelv",
+    "4. klechu",
+    "5. Ryszard",
+    "6. Koralik",
+    "7. skaarj",
+    "8. Kytutr",
+    "9. rychu",
+    "10. kojut"
+]
 
 pentaxians = the_list.copy()
 
